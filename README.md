@@ -24,8 +24,8 @@ I took part in writing liveness proof in Coq.
 
 # Education
 
-2022.09 - now, M.S., School of Software, Shanghai Jiao Tong University, Advisor: Zhaoguo Wang
-2017.09 - 2021.06, B.S., School of Software, Shanghai Jiao Tong University
+- 2022.09 - now, M.S., School of Software, Shanghai Jiao Tong University, Advisor: Zhaoguo Wang
+- 2017.09 - 2021.06, B.S., School of Software, Shanghai Jiao Tong University
 
 # Contact
 
