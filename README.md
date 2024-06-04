@@ -1,7 +1,7 @@
 # Overview
 
-I am Zhuoran Wei, a master student at the institute of parallel and distributed systems (IPADS), Shanghai Jiao Tong University.
-Currently I am working on application of formal verification in database systems under the supervision of [Prof. Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang).
+I am Zhuoran Wei, a master's student at the Institute of Parallel and Distributed Systems (IPADS), Shanghai Jiao Tong University.
+Currently, I am working on the application of formal verification in database systems under the supervision of [Prof. Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang).
 
 # Projects
 
@@ -10,16 +10,19 @@ Currently I am working on application of formal verification in database systems
 [Github repo](https://github.com/SJTU-IPADS/SQLSolver)
 
 SQLSolver is an automated prover for the equivalence of SQL queries.
-I contributed to the implementation and refactor of SQLSolver.
+Compared to prior provers, it can support more SQL features and has a stronger verification capability:
+for example, SQLSolver can verify the equivalence of all 232 query pairs from the Calcite test suite, while only 121 of them can be proved by prior provers.
+I contributed to the implementation and refactoring of SQLSolver.
 
 ## SQLRuleGen
 
 SQLRuleGen automatically extracts rewrite rules from equivalent SQL queries.
-I implemented this tool.
+It does not need to enumerate rules in an exhaustive manner like prior work (e.g. WeTune).
+I was responsible for the implementation of SQLRuleGen.
 
 ## AtomFS
 
-AtomFS is a formally-verified concurrent file system with fine-grained locking.
+AtomFS is the first formally-verified concurrent file system with fine-grained locking.
 I took part in writing liveness proof in Coq.
 
 # Education
