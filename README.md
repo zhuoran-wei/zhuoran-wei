@@ -1,5 +1,7 @@
 # Overview
 
+<img src="photo-wzr.jpg" alt="photo" width="200"/>
+
 I am Zhuoran Wei, a master's student at the Institute of Parallel and Distributed Systems (IPADS), Shanghai Jiao Tong University.
 Currently, I am working on the application of formal verification in database systems under the supervision of [Prof. Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang).
 
