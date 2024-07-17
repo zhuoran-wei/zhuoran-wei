@@ -9,12 +9,16 @@ Currently, I am working on the application of formal verification in database sy
 
 ## SQLSolver
 
-[Github repo](https://github.com/SJTU-IPADS/SQLSolver)
-
 SQLSolver is an automated prover for the equivalence of SQL queries.
 Compared to prior provers, it can support more SQL features and has a stronger verification capability:
 for example, SQLSolver can verify the equivalence of all 232 query pairs from the Calcite test suite, while only 121 of them can be proved by prior provers.
 I contributed to the implementation and refactoring of SQLSolver.
+
+[Online demo](https://sqlsolver.systems/sqlsolver/home)
+
+[Code](https://github.com/SJTU-IPADS/SQLSolver)
+
+[Paper](https://doi.org/10.1145/3626768)
 
 ## SQLRuleGen
 
