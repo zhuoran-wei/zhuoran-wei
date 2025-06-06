@@ -2,10 +2,14 @@
 
 <img src="photo-wzr.jpg" alt="photo" width="200"/>
 
-I am Zhuoran Wei, a master's student at the Institute of Parallel and Distributed Systems (IPADS), Shanghai Jiao Tong University.
-Currently, I am working on the application of formal verification in database systems under the supervision of [Prof. Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang).
+I am Zhuoran Wei, a graduate from Institute of Parallel and Distributed Systems (IPADS), Shanghai Jiao Tong University.
+During my master's studies, I worked on the application of formal verification in database systems under the supervision of [Prof. Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang).
 
 # Projects
+
+## SQLDriller
+
+SQLDriller is an automated detection and fixing tool for inconsistencies in text-to-SQL datasets, thus improving their quality. I participated in the implementation of the SQL equivalence checker and the evaluation of SQLDriller.
 
 ## SQLSolver
 
@@ -33,7 +37,7 @@ I took part in writing liveness proof in Coq.
 
 # Education
 
-- 2022.09 - now, M.Eng., School of Software, Shanghai Jiao Tong University, Advisor: Zhaoguo Wang
+- 2022.09 - 2025.03, Professional Master Degree of Electronic Information, School of Software, Shanghai Jiao Tong University, Advisor: Zhaoguo Wang
 - 2017.09 - 2021.06, B.Eng., School of Software, Shanghai Jiao Tong University
 
 # Contact
