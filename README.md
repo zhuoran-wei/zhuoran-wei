@@ -7,6 +7,10 @@ During my master's studies, I worked on the application of formal verification i
 
 # Projects
 
+## PiStar
+
+PiStar is a parallel LIA* solver, which can be used in scenarios such as SQL equivalence checking. It is the first parallel LIA* solver to the best of my knowledge. This is my master's thesis.
+
 ## SQLDriller
 
 SQLDriller is an automated detection and fixing tool for inconsistencies in text-to-SQL datasets, thus improving their quality. I participated in the implementation of the SQL equivalence checker and the evaluation of SQLDriller.
